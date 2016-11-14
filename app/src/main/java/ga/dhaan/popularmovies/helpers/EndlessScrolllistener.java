@@ -5,6 +5,7 @@ import android.widget.GridView;
 
 /**
  * Created by thijs on 13-11-2016.
+ * https://guides.codepath.com/android/Endless-Scrolling-with-AdapterViews-and-RecyclerView
  */
 
 public abstract class EndlessScrolllistener implements GridView.OnScrollListener {
